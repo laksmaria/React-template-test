@@ -1,0 +1,16 @@
+{
+  "name": "netflix-react-router",
+  "version": "0.0.0",
+  "description": "A simple react-router example",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "latest",
+    "react-scripts": "2.0.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [
+    "react",
+    "router"
+  ]
+}
